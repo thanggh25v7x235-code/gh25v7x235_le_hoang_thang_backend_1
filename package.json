@@ -1,0 +1,19 @@
+{
+  "name": "gh25v7x235_le_hoang_thang_backend_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/thanglh/gh25v7x235_le_hoang_thang_backend_1.git"
+  },
+  "author": "gh25v7x235_le_hoang_thang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/thanglh/gh25v7x235_le_hoang_thang_backend_1/issues"
+  },
+  "homepage": "https://gitlab.com/thanglh/gh25v7x235_le_hoang_thang_backend_1#readme"
+}
